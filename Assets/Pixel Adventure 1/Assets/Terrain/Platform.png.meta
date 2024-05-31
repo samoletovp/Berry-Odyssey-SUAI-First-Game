@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 271597114f195e34abb2683ac9452751
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain (16x16) 1_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129d201313570b49bb5476c5fc73166
+      internalID: -135296946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Terrain (16x16) 1_0: -397799145
+      Terrain (16x16) 1_1: 1430563217
+      Terrain (16x16) 1_10: -540067364
+      Terrain (16x16) 1_100: 628181134
+      Terrain (16x16) 1_101: -459897414
+      Terrain (16x16) 1_102: 544666309
+      Terrain (16x16) 1_103: 1122882627
+      Terrain (16x16) 1_104: 1334893013
+      Terrain (16x16) 1_105: 22602156
+      Terrain (16x16) 1_106: 250824238
+      Terrain (16x16) 1_107: -480579216
+      Terrain (16x16) 1_108: 1601186501
+      Terrain (16x16) 1_109: -592596509
+      Terrain (16x16) 1_11: 977218078
+      Terrain (16x16) 1_110: 1440736093
+      Terrain (16x16) 1_111: -587873556
+      Terrain (16x16) 1_112: -1265979214
+      Terrain (16x16) 1_113: 152999994
+      Terrain (16x16) 1_114: 2038824506
+      Terrain (16x16) 1_115: -1689537423
+      Terrain (16x16) 1_116: -30859673
+      Terrain (16x16) 1_117: 1502205347
+      Terrain (16x16) 1_118: -1424504541
+      Terrain (16x16) 1_119: 49082014
+      Terrain (16x16) 1_12: 763984066
+      Terrain (16x16) 1_120: 76435206
+      Terrain (16x16) 1_121: -437157565
+      Terrain (16x16) 1_122: -239331991
+      Terrain (16x16) 1_123: -683357033
+      Terrain (16x16) 1_124: -1005812967
+      Terrain (16x16) 1_125: 1991745835
+      Terrain (16x16) 1_126: -200441999
+      Terrain (16x16) 1_127: 313641516
+      Terrain (16x16) 1_128: 1662870603
+      Terrain (16x16) 1_129: -2042532702
+      Terrain (16x16) 1_13: -1526690414
+      Terrain (16x16) 1_130: -665337316
+      Terrain (16x16) 1_131: -386714833
+      Terrain (16x16) 1_132: 926775779
+      Terrain (16x16) 1_133: -325398821
+      Terrain (16x16) 1_134: 311654454
+      Terrain (16x16) 1_135: -1513417416
+      Terrain (16x16) 1_136: 1315529160
+      Terrain (16x16) 1_137: 1906713696
+      Terrain (16x16) 1_138: 669367828
+      Terrain (16x16) 1_139: 776727580
+      Terrain (16x16) 1_14: -359598991
+      Terrain (16x16) 1_140: 1100141797
+      Terrain (16x16) 1_141: 1731188703
+      Terrain (16x16) 1_142: -210978507
+      Terrain (16x16) 1_143: -1622086431
+      Terrain (16x16) 1_15: 1460935140
+      Terrain (16x16) 1_16: -941759725
+      Terrain (16x16) 1_17: 1753587715
+      Terrain (16x16) 1_18: 923127489
+      Terrain (16x16) 1_19: 1473690802
+      Terrain (16x16) 1_2: 633022285
+      Terrain (16x16) 1_20: -1386848585
+      Terrain (16x16) 1_21: 282327993
+      Terrain (16x16) 1_22: 368736680
+      Terrain (16x16) 1_23: -20739508
+      Terrain (16x16) 1_24: 1479000946
+      Terrain (16x16) 1_25: 1548907519
+      Terrain (16x16) 1_26: 1433612426
+      Terrain (16x16) 1_27: 1861022461
+      Terrain (16x16) 1_28: 2056084782
+      Terrain (16x16) 1_29: 1502334256
+      Terrain (16x16) 1_3: -704152377
+      Terrain (16x16) 1_30: -393116514
+      Terrain (16x16) 1_31: -1154290907
+      Terrain (16x16) 1_32: 1141756603
+      Terrain (16x16) 1_33: -135296946
+      Terrain (16x16) 1_34: -309994852
+      Terrain (16x16) 1_35: -1146442284
+      Terrain (16x16) 1_36: 1929157323
+      Terrain (16x16) 1_37: -1660383210
+      Terrain (16x16) 1_38: -1937422440
+      Terrain (16x16) 1_39: -68581349
+      Terrain (16x16) 1_4: 1884030193
+      Terrain (16x16) 1_40: 750712800
+      Terrain (16x16) 1_41: -1699562849
+      Terrain (16x16) 1_42: -1189520325
+      Terrain (16x16) 1_43: -899306503
+      Terrain (16x16) 1_44: 1345369541
+      Terrain (16x16) 1_45: 1521846604
+      Terrain (16x16) 1_46: 2012530304
+      Terrain (16x16) 1_47: 880182116
+      Terrain (16x16) 1_48: 1229583227
+      Terrain (16x16) 1_49: 341702954
+      Terrain (16x16) 1_5: -1710025110
+      Terrain (16x16) 1_50: -1723267104
+      Terrain (16x16) 1_51: 674921191
+      Terrain (16x16) 1_52: -535402754
+      Terrain (16x16) 1_53: -1555950293
+      Terrain (16x16) 1_54: 1741676993
+      Terrain (16x16) 1_55: -905344120
+      Terrain (16x16) 1_56: 75178991
+      Terrain (16x16) 1_57: -1450487255
+      Terrain (16x16) 1_58: -465408333
+      Terrain (16x16) 1_59: -350503821
+      Terrain (16x16) 1_6: 2124460936
+      Terrain (16x16) 1_60: 603106607
+      Terrain (16x16) 1_61: -991498549
+      Terrain (16x16) 1_62: -201821928
+      Terrain (16x16) 1_63: 870551485
+      Terrain (16x16) 1_64: 1402918084
+      Terrain (16x16) 1_65: 1719605973
+      Terrain (16x16) 1_66: -263452061
+      Terrain (16x16) 1_67: 2099454235
+      Terrain (16x16) 1_68: -1136026818
+      Terrain (16x16) 1_69: -1691257680
+      Terrain (16x16) 1_7: 828616365
+      Terrain (16x16) 1_70: 2106695388
+      Terrain (16x16) 1_71: 3249539
+      Terrain (16x16) 1_72: -1400802205
+      Terrain (16x16) 1_73: -805679403
+      Terrain (16x16) 1_74: -547269379
+      Terrain (16x16) 1_75: -4271495
+      Terrain (16x16) 1_76: -631854205
+      Terrain (16x16) 1_77: -547130714
+      Terrain (16x16) 1_78: 1309595705
+      Terrain (16x16) 1_79: -81281714
+      Terrain (16x16) 1_8: 723426511
+      Terrain (16x16) 1_80: -2069894001
+      Terrain (16x16) 1_81: 229023684
+      Terrain (16x16) 1_82: 1083706848
+      Terrain (16x16) 1_83: 1054683585
+      Terrain (16x16) 1_84: 7864710
+      Terrain (16x16) 1_85: -1899953091
+      Terrain (16x16) 1_86: -1810271755
+      Terrain (16x16) 1_87: 1630247331
+      Terrain (16x16) 1_88: -257532561
+      Terrain (16x16) 1_89: -1974750133
+      Terrain (16x16) 1_9: 255480650
+      Terrain (16x16) 1_90: 932454850
+      Terrain (16x16) 1_91: -1058123490
+      Terrain (16x16) 1_92: -992371966
+      Terrain (16x16) 1_93: 2142299460
+      Terrain (16x16) 1_94: 1781940364
+      Terrain (16x16) 1_95: -881534021
+      Terrain (16x16) 1_96: -1660408140
+      Terrain (16x16) 1_97: 1272119758
+      Terrain (16x16) 1_98: -787609929
+      Terrain (16x16) 1_99: -1140343684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
